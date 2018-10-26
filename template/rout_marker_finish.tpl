@@ -1,0 +1,1 @@
+	<div class="rout_plan_point"><img src="{IMG}" alt=""/>{MARKER_NAME}</div>

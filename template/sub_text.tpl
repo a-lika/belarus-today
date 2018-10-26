@@ -1,0 +1,1 @@
+<a name="{LINK}"></a>{TEXT}
